@@ -1,0 +1,14 @@
+.repeat-x {
+    display: inline-block;
+    border: 3px solid black;
+    padding-top: 130px;
+    background-image: url("http://www.sololearn.com/uploads/css_logo.png");
+    background-repeat: repeat-x;
+    background-color: whitesmoke;
+    font-size: 50px;
+    font-weight: 900;
+    min-width: 400px;
+    height: 400px;
+}
+
+
