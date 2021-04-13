@@ -1,0 +1,11 @@
+.normal {
+    letter-spacing: normal;
+}
+
+.spaced4px {
+    letter-spacing: 4px;
+}
+
+.negative1-5px {
+    letter-spacing: -1.5px;
+}

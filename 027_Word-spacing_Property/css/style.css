@@ -1,0 +1,11 @@
+.normal {
+    word-spacing: normal;
+}
+
+.px30 {
+    word-spacing: 30px;
+}
+
+.negative {
+    word-spacing: -5px;
+}

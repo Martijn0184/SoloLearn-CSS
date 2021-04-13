@@ -1,0 +1,15 @@
+.serif{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sansserif{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.monospace{
+    font-family: 'Courier New', Courier, monospace;
+}
+.cursive{
+    font-family: Florence, cursive;
+}
+.fantasy{
+    font-family: Blippo, fantasy;
+}

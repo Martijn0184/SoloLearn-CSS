@@ -1,0 +1,23 @@
+.none {
+    text-decoration: none;
+}
+
+.inherit {
+    text-decoration: inherit;
+}
+
+.overline {
+    text-decoration: overline;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+
+.blink {
+    text-decoration: blink;
+}

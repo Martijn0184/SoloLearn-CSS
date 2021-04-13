@@ -1,0 +1,7 @@
+p {
+    text-indent: 60px;
+}
+
+.negative-indent {
+    text-indent: -20px;
+}

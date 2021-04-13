@@ -1,0 +1,15 @@
+.capitalize {
+    margin-top: 40px;
+    text-transform: capitalize;
+}
+
+.uppercase {
+    margin-top: 40px;
+    text-transform: uppercase;
+}
+
+.lowercase {
+    margin-top: 40px;
+    text-transform: lowercase;
+    
+}
