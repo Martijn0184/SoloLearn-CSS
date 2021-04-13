@@ -1,0 +1,12 @@
+.wh90 {
+    border: 5px solid indigo;
+    width: 90px;
+    height: 90px;
+}
+
+.wh100-100px {
+    margin-top: 50px;
+    border: 5px solid green;
+    width: 100%;
+    height: 90px;
+}
