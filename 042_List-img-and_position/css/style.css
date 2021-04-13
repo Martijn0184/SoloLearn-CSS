@@ -1,0 +1,9 @@
+.image {
+    list-style-image: url("http://www.sololearn.com/images/bullet.jpg");
+    list-style-position: inside;
+}
+
+.outside {
+    list-style-image: url("http://www.sololearn.com/images/bullet.jpg");
+    list-style-position: outside;
+}

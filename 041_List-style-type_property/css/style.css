@@ -1,0 +1,15 @@
+.lower-alpha{
+    list-style: lower-alpha;
+}
+.circle{
+    list-style: circle;
+}
+.square{
+    list-style: square;
+}
+.decimal{
+    list-style: decimal;
+}
+.disc{
+    list-style: disc;
+}
