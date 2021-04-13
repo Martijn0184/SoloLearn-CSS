@@ -1,0 +1,12 @@
+.help {
+    margin-left: 30px;
+    cursor: help;
+}
+.wait{
+    margin-left: 30px;
+    cursor: wait;
+}
+.crosshair{
+    margin-left: 30px;
+    cursor: crosshair;
+}
