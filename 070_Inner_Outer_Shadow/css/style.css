@@ -1,0 +1,15 @@
+.inner {
+    margin: 40px;
+    width: 300px;
+    height: 100px;
+    background-color: green;
+    box-shadow: inset 10px 10px 5px #888888;
+}
+
+.inner-outer {
+    margin: 40px;
+    width: 300px;
+    height: 100px;
+    background-color: green;
+    box-shadow: inset 10px 10px 5px #888888, 10px 10px 5px 5px #888888;
+}
