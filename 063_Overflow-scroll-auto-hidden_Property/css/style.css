@@ -1,0 +1,23 @@
+.scroll {
+    width: 150px;
+    height: 150px;
+    background-color: lightblue;
+    float: left;
+    overflow: scroll;
+}
+
+.auto {
+    width: 150px;
+    height: 150px;
+    background-color: lightblue;
+    float: left;
+    overflow: auto;
+}
+
+.hidden {
+    width: 150px;
+    height: 150px;
+    background-color: lightblue;
+    float: left;
+    overflow: hidden;
+}
