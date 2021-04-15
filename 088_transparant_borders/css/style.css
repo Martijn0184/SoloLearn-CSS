@@ -1,0 +1,28 @@
+#tb01 {
+  margin: 100px;
+  position: relative;
+}
+
+#tb01 div {
+  border: 20px solid rgba(0, 0, 0, 0.3);
+  width: 200px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  background-color: white;
+}
+
+#tb02 {
+  margin: 100px;
+  position: relative;
+}
+
+#tb02 div {
+  border: 20px solid rgba(0, 0, 0, 0.3);
+  width: 200px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  background-clip: padding-box;
+  background-color: white;
+}

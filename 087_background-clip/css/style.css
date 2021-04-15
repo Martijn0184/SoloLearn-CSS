@@ -1,0 +1,39 @@
+.one {
+    margin-top: 20px;
+    width: 500px;
+    height: 150px;
+    padding: 20px;
+    border: 2px dotted black;
+    background-color: cyan;
+    background-clip: padding-box;
+}
+
+.two {
+    margin-top: 20px;
+    width: 500px;
+    height: 150px;
+    padding: 20px;
+    border: 2px dotted black;
+    background-color: cyan;
+    background-clip: content-box;
+}
+
+.three {
+    margin-top: 20px;
+    width: 500px;
+    height: 150px;
+    padding: 20px;
+    border: 2px dotted black;
+    background-image: url("http://www.sololearn.com/uploads/css_logo.png");
+    background-clip: padding-box;
+}
+
+.four {
+    margin-top: 20px;
+    width: 500px;
+    height: 150px;
+    padding: 20px;
+    border: 2px dotted black;
+    background-image: url("http://www.sololearn.com/uploads/css_logo.png");
+    background-clip: content-box;
+}
