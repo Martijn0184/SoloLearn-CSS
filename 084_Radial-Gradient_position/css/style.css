@@ -1,0 +1,17 @@
+.one {
+    width: 300px;
+    height: 250px;
+    color: red;
+    font-size: 30px;
+    font-weight: 900;
+    background: -webkit-radial-gradient(top left, blue, yellow, green);
+}
+
+.two {
+    width: 300px;
+    height: 250px;
+    color: red;
+    font-size: 30px;
+    font-weight: 900;
+    background: -webkit-radial-gradient(yellow 25%, green 25%, blue 50% );
+}
