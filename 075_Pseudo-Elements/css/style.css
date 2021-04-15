@@ -1,0 +1,26 @@
+body {
+    width: 40%;
+    margin: auto;
+}
+
+#first-line::first-line {
+    color: chartreuse;
+}
+
+#first-letter::first-letter {
+    color: red;
+}
+
+#before::before {
+    font-weight: 900;
+    content: 'This is Before Content!';
+}
+
+#after::after {
+    font-weight: 900;
+    content: 'This is After Content!';
+}
+
+.before p::before {
+    content: url("http://www.sololearn.com/images/bullet.jpg");
+}
