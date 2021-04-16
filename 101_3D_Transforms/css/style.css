@@ -1,0 +1,31 @@
+body {
+    width: 80%;
+    margin: auto;
+}
+
+#x {
+    margin-top: 200px;
+    width: 250px;
+    height: 100px;
+    color: white;
+    background-color: green;
+    transform: rotateX(150deg);
+}
+
+#y {
+    margin-top: 200px;
+    width: 250px;
+    height: 100px;
+    color: white;
+    background-color: green;
+    transform: rotateY(150deg);
+}
+
+#z {
+    margin-top: 200px;
+    width: 250px;
+    height: 100px;
+    color: white;
+    background-color: green;
+    transform: rotateZ(150deg);
+}

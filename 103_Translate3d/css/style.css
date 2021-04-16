@@ -1,0 +1,13 @@
+body {
+    width: 80%;
+    margin: auto;
+}
+
+#mybox1 {
+    margin-top: 200px;
+    width: 250px;
+    height: 100px;
+    color: white;
+    background-color: green;
+    transform: translate3d(-20px, 4em, 10px);
+}

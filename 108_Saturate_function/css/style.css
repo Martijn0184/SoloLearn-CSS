@@ -1,0 +1,16 @@
+body {
+    width: 80%;
+    margin: auto;
+}
+
+img {
+    width: 130px;
+    height: 100px;
+}
+
+.saturate {
+    filter: saturate(50%);
+}
+.super{
+    filter: saturate(2.5)
+}

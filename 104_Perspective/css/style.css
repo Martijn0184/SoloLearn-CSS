@@ -1,0 +1,21 @@
+body {
+    width: 80%;
+    margin: auto;
+}
+
+.empty-div{
+    position: relative;
+    height:200px;
+    width: 200px;
+    margin: 30px;
+    padding: 10px;
+    border: 1px solid black;
+    perspective: 100px;
+}
+.green-div{
+    padding: 60px;
+    position: absolute;
+    background-color: #8bc34a;
+    border: 1px solid white;
+    transform:rotateX(45deg);
+}
