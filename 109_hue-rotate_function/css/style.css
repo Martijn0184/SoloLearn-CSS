@@ -1,0 +1,13 @@
+body {
+    width: 80%;
+    margin: auto;
+}
+
+img {
+    width: 130px;
+    height: 100px;
+}
+
+.hue {
+    filter: hue-rotate(180deg);
+}

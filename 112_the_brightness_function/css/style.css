@@ -1,0 +1,17 @@
+body {
+    width: 80%;
+    margin: auto;
+}
+
+img {
+    width: 130px;
+    height: 100px;
+}
+
+.brightness1 {
+    filter: brightness(50%);
+}
+
+.brightness2 {
+    filter: brightness(1.9);
+}
