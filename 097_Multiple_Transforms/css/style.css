@@ -1,0 +1,13 @@
+body {
+    width: 80%;
+    margin: auto;
+}
+
+.one {
+    width: 200px;
+    height: 100px;
+    padding: 50px;
+    background-color: #32CD32;
+    color: wheat;
+    transform: rotate(45deg) translate(100px);
+}

@@ -1,0 +1,25 @@
+body {
+    width: 80%;
+    margin: auto;
+}
+
+div {
+    animation-name: grow;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-delay: 3s;
+    animation-fill-mode: forwards;
+    height: 100px;
+    width: 0px;
+    background-color: red;
+}
+
+@keyframes grow {
+    from {
+        width: 0px;
+    }
+
+    to {
+        width: 500px;
+    }
+}

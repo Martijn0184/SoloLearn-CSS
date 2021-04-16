@@ -1,0 +1,26 @@
+body {
+    width: 80%;
+    margin: auto;
+}
+
+div {
+    animation-name: grow;
+    animation-duration: 3s;
+    animation-timing-function: ease-in-out;
+    animation-delay: 1s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    height: 100px;
+    width: 0px;
+    background-color: red;
+}
+
+@keyframes grow {
+    from {
+        width: 0px;
+    }
+
+    to {
+        width: 500px;
+    }
+}

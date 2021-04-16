@@ -1,0 +1,36 @@
+body {
+    width: 80%;
+    margin: auto;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: wheat;
+    animation-name: example00;
+    animation-duration: 4000ms;
+    animation-iteration-count: infinite;
+}
+
+@keyframes example00 {
+    0% {
+        background-color: red;
+    }
+
+    25% {
+        background-color: green;
+    }
+
+    50% {
+        background-color: grey;
+    }
+
+    75% {
+        background-color: indigo;
+    }
+
+    100% {
+        background-color: khaki;
+    }
+}
