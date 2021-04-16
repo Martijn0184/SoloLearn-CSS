@@ -1,0 +1,21 @@
+.clockwise {
+    width: 200px;
+    height: 100px;
+    background: #32CD32;
+    margin-top: 30px;
+}
+
+.clockwise:hover {
+    transform: rotate(10deg);
+}
+
+.counter-clockwise {
+    width: 200px;
+    height: 100px;
+    background: #32CD32;
+    margin-top: 30px;
+}
+
+.counter-clockwise:hover {
+    transform: rotate(-10deg);
+}
